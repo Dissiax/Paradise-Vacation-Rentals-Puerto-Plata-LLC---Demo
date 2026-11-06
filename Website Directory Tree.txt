@@ -1,0 +1,248 @@
+
+List of Web Pages:
+-------------------------------------------------
+ -  https://www.paradisevacationrentalspuertoplatallc.com/
+ -  /resort-amenities
+	 -  /resort-amenities?pgid=minma806-ac50204a-deaa-4a87-8b67-358bbc419068
+	 -  /resort-amenities?pgid=minma806-e8ee106c-a318-425c-be1a-e6cd3a528a7a
+	 -  /resort-amenities?pgid=minma806-ccf5e032-fe0a-4f28-a641-6f4d93567cd0
+			-
+	 -  /resort-amenities?pgid=minmffsd-f85556c8-b0fc-41a0-9f3a-d3a760c0a8aa
+	 -  /resort-amenities?pgid=minmffsd-744db4d5-1804-4f6d-867e-71f337360033
+	 -  /resort-amenities?pgid=minmffsd-6fd0a0b4-04bb-412d-b9f4-9653c9be68d7
+ -  /activities-and-entertainment
+	 -  /activities-and-entertainment?pgid=mj1t3oco-0e90a8cd-69f9-4b24-bd19-b7b044159ec0
+	 -  /activities-and-entertainment?pgid=mj1t3oco-ab058cf2-2222-4b6f-b3a1-397af0e71440
+	 -  /activities-and-entertainment?pgid=mj1t3oco-26bf8ba2-5ded-4a27-8cea-270577da8c06
+	 -  /activities-and-entertainment?pgid=mj1t3oco-b70e5648-059a-4402-a2a5-532cb4e878f4
+	 -  /activities-and-entertainment?pgid=mj1t3oco-88474ddd-1e95-42d7-b8a4-05434dbeaf38
+	 -  /activities-and-entertainment?pgid=mj1t3oco-8d03e8ed-9321-4565-a6ae-67d331d9e8fc
+	 -  /activities-and-entertainment?pgid=mj1t3oco-05135fdb-3004-4227-a5a8-e188ada1addf
+	 -  /activities-and-entertainment?pgid=mj1t3oco-fb1d5198-ff52-48ef-b158-6827e940391e
+ -  /kids-and-teens
+ -  /restaurants-and-bars
+ -  /about-the-owners
+ -  /testimonials
+ -  /policies-and-terms
+ -  /booking-engine#/search
+	 - seems to have some error without the "#/search"
+ -  /rooms
+ -  /rooms/cofresi-palm-beach-%26-spa-resort
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_d49bfc35afa843c5a718da98a5e50c06mv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_842d3b34f8e84aaaaf0df6c9ab8e8c0fmv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_063ebf0a716c4898a8c1c0fedd0ba3bemv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_f6d021ab7cc84230909d32bcac59ba1fmv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_e9e0ca7031134c57ae5913bbb65e7f1fmv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_30e5782548c44a49bcdb71aedf63ececmv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_d3e4ee29373c4ac8b3854501983fe11fmv2.jpg
+	 -  /rooms/cofresi-palm-beach-%26-spa-resort?pgid=mhmgvwhf-0c96ef_58a66ad4bb944faeb8097ea480ed66afmv2.jpg
+ -  /rooms/tropical
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_d0245e1687644093ba126825922fc7e3mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-4a78eb_41b35af5db9a4e34887bc5c4ec591520mv2.png
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_f734504b047146e29bb2173916deed26mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_bb6e38baaaf04644a728822d8d752617mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_36e0a369eba148f8b691264e8e5ddef6mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_008f8ebb084845b883f364835c6b3654mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_778f6dbf0c1b438282b9f57284f79b9dmv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_812de0b927f3443f96ac39dbb2959b57mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_c7458292733246ac925c75299a951be5mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_5efcf56258c142dda3b88b7f0b805fd5mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_0abed737a389475d9953997972b34a68mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_f7213ec2d9cf45c49000c4aff4d3abc4mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_6b87cf891bd04398ac4c5cb784d973cbmv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_28e173b52ff44620aa17c09fd3e8c2c9mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_73d78db2ac0449ab9f034b83166afb6dmv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_c092773d53644f669748c8dfc113786cmv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_0beb398911f14aa594674eca4691e426mv2.jpg
+	 -  /rooms/tropical?pgid=mhmgvwhf-0c96ef_cdac265e71da45e9ab3948b06a1464d7mv2.jpg
+ -  /rooms/residence-suites
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_be8e8ef7b2a5455c8513a437b54ec08bmv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-4a78eb_bb254d6b920e4a5ba5bf63cdf4774b76mv2.png
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-4a78eb_1416944a130f42d8860de0d2ad651c61mv2.png
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_be8e8ef7b2a5455c8513a437b54ec08bmv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_793d4d020509410eaa8ae651bbdb9ab8mv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_a17b8260445f42a49c737de643416752mv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_5ba54691e76a49aabd2b5b689319a3e5mv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_60a8be23ebeb4b8f94ab935ed0c6db85mv2.jpg
+	 -  /rooms/residence-suites?pgid=mhmgvwhf-0c96ef_ae78bda0929844dfaa85fb0e0998eb55mv2.jpg
+ -  /rooms/crown-suites
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_0d9fbd8333164c6fae8b72feff53bd8fmv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-4a78eb_8b162e1a9f70463bbf27f8ddabc661f9mv2.png
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_0a28297be66247cbbdd850ae2972172cmv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_9b9b2e0ee660425e80d56f18f796c3cbmv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_0773636e5c9f4b7e9daeca93a4c3ac48mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_938488d915bb4f3da03c3a94a814edf7mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_2326aa1085cc49a4a9935442a913da89mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_51cd9d3febed4eb287075148f97b5df3mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_bbe39d51afdd4184b8642c26dd3f7932mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_c2d4cf3d23524c618586e156911d6acbmv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_487edfdd5ede472aa6d7e8991b343132mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_464fa86ed06345a795c4fc316ed3fa64mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_3416ec1b02154068b6c906e83dd55060mv2.jpg
+	 -  /rooms/crown-suites?pgid=mhmgvwhf-0c96ef_13f36f8908194a63a16c46467b4d6fefmv2.jpg
+ -  /rooms/presidential-suites
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_6142818468314a8887f190729f08af86mv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-4a78eb_36e6ba558c1d41fd9129b97c178dbf95mv2.png
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_39f0bfd587d44c4da0c58444a951873cmv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_6568878c2f8d4972be5feb468737384fmv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_177f198fb6c340b2a0af6688bc136f91mv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_281bbadb4d6243ddad14220705f9d397mv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_3fcd9a5115144747ac15fcca83326741mv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_f1cae6b38399404496a24c7d018c9e48mv2.jpg
+	 -  /rooms/presidential-suites?pgid=mhmgvwhf-0c96ef_9f8b8587ff3f420095fe19a45ffeaf90mv2.jpg
+ -  /rooms/royal-suites
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_214c7fee163e48f4bbd11734238d6743mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-4a78eb_c4aa265082b74775b7ed86bb0dc3aec9mv2.png
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-4a78eb_1939c611372f4b23bb35b7b5bab1f0f3mv2.png
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_25997eadfa914fc3badda8d57c48d4d2mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_f28d1997092542898e702d2d69fc96c8mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_f5e22d129fe744d4945045b20fa9acb8mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_fcc9533902f4442eb4e9c251c5d19416mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_0f8ede2415ee4fa19fab3f50b382e412mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_b9d0c25ef2164008b85cfcd393dc5d24mv2.jpg
+	 -  /rooms/royal-suites?pgid=mhmgvwhf-0c96ef_4394f1377f6848398ab20d67947447c4mv2.jpg
+ -  /rooms/sunrise-suites
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_4669636cbace4430b89a323641be654fmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_096a3fa9a70c49ba93289bdf80bfd9bdmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_a4476265c26940bcb6fd90f197daa96cmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_7b26dd4e77654477b5cbe0fd06d1b30amv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_e4134008ce9d43108e63fb686ff69cfdmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_527e2fbb76e94e5ab0e5dca8d9300c22mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_09d73fce01274f37baa2d67756d0facdmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_787052dc57e9410d992591e731c4dacbmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_e0a28bbb954e4c88bf28b0ab80a868aamv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_2c65484c33ae4344897ea9a7cc861389mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_2db60b52c1c84859a2a9a00e3b8d5f96mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_5dc59781c5c14d7390aaefd2b0d0e9d4mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_965706d7e4ec429d95f7882b02fd0349mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_4e70448ab67f4d0b81149a39f18b7a91mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_cb1ec31c3b904b3694ce5143287fb0c2mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_1a40cde7192c4a518d00b6156160573dmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_e047fd2c85b14f72a25eb998315b3dccmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_6c8b3ded76164a91ba741e13b02ca262mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_ac5587e9ca7f4804b3839bbfab77520emv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_5002b0d850964b1aa680aa01bd836020mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_05134b2e7a84437d95ce6ec856c327a0mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_96d423a2e48e4e66b81c427b57d862a1mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_c93a12c22b6e45c28af6e9e44103d512mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_41c3d0fb606f4e96a9eddc08d7dcea8emv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_8e405ace2ffb4b2ab169639ece1eeeafmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_84cba5d3f10e4cad9611e621d32585b6mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_8f7361caec1a475692d4d4930707e5b0mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_e8fea92d9dfe4d16a0f3c85dcff60cc6mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_84e57d689301447aa31f00fa7cef82fcmv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-0c96ef_b3302535a4c84fdcb29cfefe0f0d53f0mv2.jpg
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-4a78eb_5e27b7089f4d4a7fa9d45fbc711998a5mv2.png
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-4a78eb_20d9d8f1ef8c4ceab018a251e66abcfamv2.png
+	 -  /rooms/sunrise-suites?pgid=mhmgvwhf-4a78eb_7b7a6cc571c7458399402f695c75b781mv2.png
+ -  /rooms/crown-villas
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_0b8c4d17a30a4005bb682a13f05cd915mv2.jpg
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-4a78eb_1dad8d85344048d29e2b35b4f0f17ac3mv2.png
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_2a357dbcaeba493d8240bb335b285cabmv2.jpg
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_b800188d025042fda225a9e3cff1b9f9mv2.jpg
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_cb7acdf4e9e2465cb6311e73740d58d0mv2.jpg
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_b8de6a7b22194bb890ed477e6d801377mv2.jpg
+	 -  /rooms/crown-villas?pgid=mhmgvwhf-0c96ef_0dbbf80a667d496881bda922dda84743mv2.jpg
+ -  /rooms/the-royal-villas
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_bf17e24657354e089fa09a643651109bmv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_dc67181d277f4935a96dd238abf7fea3mv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-4a78eb_0ddcbc12a4ac4ff3a7c37f7f6fcd5266mv2.png
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-4a78eb_75e1d27dbe39455cbc45b3b4db356666mv2.png
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-4a78eb_2fcf413cab524bd99cbb77d3c9755c69mv2.png
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-4a78eb_37cdd77cc4a24fdbbc252d793a1645bemv2.png
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_a4e50454a60446778487f232cab72e74mv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_6034676eef0040f99d1cd54d8c49fb7amv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_8422e627fd344121b6e3281ea538ea03mv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_d104aa0a0f3d43869690d0ff2b600fc5mv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_da687606cd5b4144891b3001f5b35e8dmv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_a3f4ff657498435bb7ca7dcd22fcef5cmv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_dbbef78df9a84e3286751e84dd477440mv2.jpg
+	 -  /rooms/the-royal-villas?pgid=mhmgvwhf-0c96ef_9ec47b53442a4580866681b9a44cc3admv2.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Images:
+-------------------------------------------------
+ -  /favicon.ico
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+ -  
+
+
+
+
+
+
+
+List of Wix Images:
+-------------------------------------------------
+ -  https://static.wixstatic.com/media/0c96ef_fb0d505e5f78469c9406acb19c36c427~mv2.jpg/v1/fill/w_800,h_259,al_c,q_80,enc_avif,quality_auto/0c96ef_fb0d505e5f78469c9406acb19c36c427~mv2.jpg
+ -  https://static.wixstatic.com/media/3ee0fd_1f937d57852f496595c81913f1928e05~mv2.png/v1/fill/w_74,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1%20(1).png
+ -  https://static.wixstatic.com/media/3ee0fd_26df66aeeb094d3fb9f62c81480e4d7a~mv2.png/v1/fill/w_74,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3%20(1).png
+ -  https://static.wixstatic.com/media/3ee0fd_f2c6d5ba793b45d398f45da83555f6fa~mv2.png/v1/fill/w_74,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2%20(1).png
+ -  https://static.wixstatic.com/media/3ee0fd_23ebb7fce8aa41299e4aa0f1270a05be~mv2.png/v1/fill/w_120,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/vip-airport.png
+ -  https://static.wixstatic.com/media/230406_5f8e2c1245524f02a772eca75059bbf1~mv2.jpg/v1/fill/w_1903,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/230406_5f8e2c1245524f02a772eca75059bbf1~mv2.jpg
+ -  https://static.wixstatic.com/media/0c96ef_bbe6f59969d54a23835b3b080f590935f000.jpg/v1/fill/w_1903,h_513,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/0c96ef_bbe6f59969d54a23835b3b080f590935f000.jpg
+ -  https://static.wixstatic.com/media/0c96ef_8628dc0514d24d51b21aefde47d4200a~mv2.jpg/v1/fill/w_750,h_503,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/r3.jpg
+ -  https://static.wixstatic.com/media/3ee0fd_4a8c6a16ff5744dfafd71d63927fffd6~mv2.png/v1/fill/w_750,h_648,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Collage%20Image.png
+ -  https://static.wixstatic.com/media/0c96ef_54de78b902484ad2adc31b4cc9e20460~mv2.jpg/v1/fill/w_659,h_381,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Crown-Residence%20Suites%20Rennovated%202024_04.jpg
+ -  https://static.wixstatic.com/media/0c96ef_cba5b82ca6c54acd922286f3617b6ace~mv2.jpg/v1/fill/w_644,h_429,fp_0.45_0.35,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2018_Royal%20Villas_17.jpg
+ -  https://static.wixstatic.com/media/0c96ef_4ddfbcf6de2740e08527a04f8a791259~mv2.jpg/v1/fill/w_633,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2018_Pres%20Suites_6.jpg
+ -  https://static.wixstatic.com/media/0c96ef_a8bf74e8a03b447d8094d601885b1a81~mv2.jpg/v1/fill/w_633,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2018_CPR_01.jpg
+ -  https://static.wixstatic.com/media/0c96ef_c7b7768b27e24eeb8e052a5e249b9973~mv2.jpg/v1/fill/w_633,h_480,fp_0.53_0.52,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2018_Royal%20Villas_08.jpg
+ -  https://static.wixstatic.com/media/3ee0fd_597bc75a31584c98aedf4d38c48763a0~mv2.png/v1/crop/x_29,y_0,w_657,h_234/fill/w_359,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/paradise_logo-07.png
+ -  https://static.wixstatic.com/media/4a78eb_fd4f3455e57b40f691c4bfaf179b8830~mv2.png/v1/fill/w_203,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/paradise_logo-01.png
+ -  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

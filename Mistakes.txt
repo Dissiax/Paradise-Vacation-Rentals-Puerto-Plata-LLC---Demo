@@ -1,0 +1,59 @@
+
+List of Mistakes in The Original Site:
+-------------------------------------------------
+ 01.	the "/testimonials" page has the tab title "About the Owners"
+ 02.	the current/open page visual distinction in the footer makes the text look like it's selected and/or there's an error of some sort
+ 03.	the current/open page visual distinction in the footer doesn't appear in the "/testimonials" page
+ 04.	improperly handled text wrapping
+ 05.	what is LHVC in the "/kids-and-teens" page? (appears no other time)
+ 06.	left over "Lorem Ipsum" placeholder text in the "/activities-and-entertainment" page
+ 07.	page title not following the industry standard "[page-title] | [site-title]" format the rest of the website uses
+ 08.	all social media links are non-functional
+ 09.	strange orange line visual artifact on the home page
+ 10.	the top section of the home page has 2 buttons: "Reserve your stay" and "View Suites & Villas", but they both go to the same place
+ 11.	pop-up can cause full page/feature freeze with no obvious fix
+ 12.	displays internal/backend image name instead of a user friendly name or no name at all
+ 13.	cannot open the next/previous room, from any of the "/rooms/*" pages, in a new tab
+ 14.	includes the text "(list)" in the tab title for the "/rooms" page which seems like a needless error
+ 15.	you cannot go to the other images if you reload an image carocel page
+ 16.	the "/rooms/*" pages' image carocel doen't always update after clicking on an image to jump ahead
+ 17.	the "/favicon.ico" image is very smushed and cutoff
+ 18.	there doesn't seem to be a way to pay or add to cart
+ 19.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
