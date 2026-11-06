@@ -1,0 +1,58 @@
+/* CSS reference: https://www.wix.com/velo/reference/$w/styling-elements-with-css */
+ 
+/* These CSS styles will be applied globally to every page of this site. Write your CSS here, e.g.: */
+
+/*  Change button background color to red: */
+/* .button {
+    background-color: red;
+} */
+
+#comp-msruqtxd .popup-box-style + .comp-msruqtxd-overflow-wrapper {
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+.hero-box
+{
+    padding-bottom: 12px;
+}
+
+.hero-box .slider {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.top-shade:before {
+    content: '';
+    width: 100%;
+    height: 70%;
+    position: absolute;
+    background-image: linear-gradient(180deg, #ffffff 50%, transparent);
+    z-index: 1;
+}
+
+.bring-up
+{
+    z-index: 1;
+}
+
+.description-txt {
+    margin: 0 !important;
+    height: 160px !important;
+}
+
+.grid-title-txt {
+    margin: 0 !important;
+    height: 80px !important;
+}
+
+@media only screen and (max-width: 500px) {
+    .grid-title-txt {
+        height: auto !important;
+        margin: 20px 0 !important;
+    }
+    .description-txt {
+        margin-bottom: 20px !important;
+        height: auto !important;
+    }
+}
