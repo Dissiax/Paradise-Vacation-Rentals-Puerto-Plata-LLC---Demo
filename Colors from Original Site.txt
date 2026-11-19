@@ -1,0 +1,81 @@
+
+
+
+Primary Website Colors:
+---------------------------------------------------------------
+ - white as the background spacing
+ - navy, specifically #00436A, as a common ocean match background
+ - muted orange and muted yellow as buttons and attention grabbers
+ - off white text against the navy and muted orange backgrounds
+ - off black text against the white and muted yellow backgrounds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of all Colors that were used in the original site:
+---------------------------------------------------------------
+ - #FFFFFF		white
+ - #F7F7F7		off white
+ - #C2C2C2		light grey
+ - #6E6E6E		grey
+ - #434343		dark grey
+ - #000000		black
+
+ - #2C674A		dark green
+ - #F3BC4B		muted yellow
+ - #094BCC		blue
+ - #EB753B		muted organge
+ - #A4E5F2		light blue
+ - #20506B		navy blue
+ - #1C33B9		blue
+ - #00436A		navy blue 2
+ - #FF0000		red
+ - #805E4F		brown
+ - #53D2B7		teal
+ - #03111E		off black
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
