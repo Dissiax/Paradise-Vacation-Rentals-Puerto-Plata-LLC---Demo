@@ -21,7 +21,6 @@ header {
   flex-direction: row;
   justify-content: space-between;
   max-height: 25vh;
-  width: dvw;
 }
 
 header>* {
@@ -46,12 +45,14 @@ header input[type="checkbox"]:checked {
 }
 
 nav {
+  display:block;
   width:auto;
   background-color:grey;
 }
 
 nav>ul {
-  overflow:auto;
+  display:block;
+  overflow-x:auto;
   animation: detect-overflow linear;
   animation-timeline: scroll(self); /* Only active when scrollable */
   
