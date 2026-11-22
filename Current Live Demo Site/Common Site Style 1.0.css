@@ -79,6 +79,7 @@ nav li {
   display: inline-block;
 }
 
+/*
 nav:has(+ input[type="checkbox"]:checked) {
   display:block;
   position: fixed;
@@ -88,6 +89,7 @@ nav:has(+ input[type="checkbox"]:checked) {
   width: 20dvw;
   animation: 1s showNav;
 }
+  */
 
 footer {
   height: 20vh;
