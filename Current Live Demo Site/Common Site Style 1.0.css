@@ -37,16 +37,12 @@ header input[type="checkbox"] {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
+  animation: 1s reverse hamburger;
 }
 
 header input[type="checkbox"]:checked {
   transform: rotate(90deg);
   animation: 1s hamburger;
-}
-
-header input[type="checkbox"]:indeterminate {
-  transform: rotate(0deg);
-  animation: 1s reverse hamburger;
 }
 
 nav {
