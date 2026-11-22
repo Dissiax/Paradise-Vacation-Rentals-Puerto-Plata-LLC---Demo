@@ -39,13 +39,11 @@ header input[type="checkbox"] {
 }
 
 header:focus-within input[type="checkbox"]:checked {
-  animation: 1s hamburger forwards;
+  animation: 1s hamburgerImverse forwards;
 }
 
-header:has(:focus-visible) input[type="checkbox"]:not(:checked) {
-  /*transform: rotate(0deg);
-  animation: 1s hamburgerInverse forwards;
-  */
+header input[type="checkbox"]:not(:checked) {
+  animation: 1s hamburger forwards;
 }
 
 nav {
