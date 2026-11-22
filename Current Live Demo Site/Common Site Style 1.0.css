@@ -20,6 +20,21 @@ header {
   max-height: 25vh;
 }
 
+header li {
+  display: inline-block;
+}
+
+header li:last-child>input[type="checkbox"] {
+  width: 1.5em;
+  aspect-ratio: 1 / 1;
+  appearance: none;
+  background-image: url("./Images/paradise_logo-01.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
 nav {
   display: block;
   position: fixed;
