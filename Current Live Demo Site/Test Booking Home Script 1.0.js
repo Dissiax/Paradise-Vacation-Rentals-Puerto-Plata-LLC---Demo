@@ -22,7 +22,6 @@ window.onload = function() {
 
 
     let displayMonth = document.getElementById("monthSelect");
-    document.getElementById("ok").innerHTML = selectMV;
     displayMonth.addEventListener('change', (event) => {
         let selectMV = parseInt(displayMonth.value);
         document.getElementById("ok").innerHTML = "recalculating";

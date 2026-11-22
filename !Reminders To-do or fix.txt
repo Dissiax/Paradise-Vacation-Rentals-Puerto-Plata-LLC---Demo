@@ -1,2 +1,4 @@
-  -   shouldn't use checkboxes because selection can't be isolated
-  -   a click to one spot should reserve all of the days until the next date clicked, nto isolated one off days
+1.    shouldn't use checkboxes because selection can't be isolated
+        -   a click to one spot should reserve all of the days until the next date clicked, nto isolated one off days
+        
+2.    x
