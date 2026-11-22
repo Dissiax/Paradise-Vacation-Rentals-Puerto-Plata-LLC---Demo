@@ -30,8 +30,6 @@ header>* {
 }
 
 header input[type="checkbox"] {
-  transform: rotate(90deg);
-  animation: 1s reverse hamburger;
   transform: rotate(0deg);
   appearance: none;
   background-image: url("./Images/Hamburger Icon 1.0.png");
@@ -39,12 +37,12 @@ header input[type="checkbox"] {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
+  animation: 1s normal hamburgerInverse;
 }
 
 header input[type="checkbox"]:checked {
-  transform: rotate(0deg);
-  animation: 1s normal hamburger;
   transform: rotate(90deg);
+  animation: 1s normal hamburger;
 }
 
 nav {
@@ -106,6 +104,16 @@ footer {
 
   to {
     transform: rotate(90deg);
+  }
+}
+
+@keyframes hamburgerInverse {
+  from {
+    transform: rotate(90deg);
+  }
+
+  to {
+    transform: rotate(0deg);
   }
 }
 
