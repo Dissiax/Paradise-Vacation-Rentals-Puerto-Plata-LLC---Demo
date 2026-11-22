@@ -17,9 +17,6 @@ body {
 }
 
 header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
   max-height: 25vh;
   width: dvw;
 }
@@ -45,23 +42,16 @@ header input[type="checkbox"]:checked {
 }
 
 nav {
+  width: calc(dvw - 3em);
   background-color:grey;
 }
 
 nav>ul {
   overflow:auto;
-  container-type: scroll-state;
-  container-name: list-box;
 }
 
 nav li {
   display: inline-block;
-}
-
-@container list-box not scroll-state(scrollable: none) {
-  .scroll-indicator {
-    color:red; /* Only shows when overflow exists */
-  }
 }
 
 nav:has(+ input[type="checkbox"]:checked) {
