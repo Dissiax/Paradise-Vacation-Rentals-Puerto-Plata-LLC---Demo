@@ -2,14 +2,21 @@
     --primary-color: #2563eb;
 }
 
+body {
+    display: block;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
 #bookingForm {
     display: block;
     width:100%;
-    border: 1em solid black;
-    margin:2em 2em 2em 2em;
-    border-radius:1em;
-    background-color:lightskyblue;
+    border: 2px solid black;
     color:gray;
+    margin:2em;
 }
 
 #roomSelect {
@@ -21,4 +28,26 @@
 #roomSelect>option {
     font-weight:bold;
     font-size:1.5em;
+}
+
+#dateSelect {
+    display:block;
+    width:100%;
+    margin:2em;
+    border-radius:1em;
+    background-color:lightskyblue;
+}
+
+#dateSelect>* {
+    display:block;
+}
+
+#yearSelect, #monthSelect {
+    width:100%;
+}
+
+#dateSelect>input[type="checkbox"] {
+    width:calc(100% / 7);
+    aspect-ratio: 1 / 1;
+    border:1px solid black;
 }
