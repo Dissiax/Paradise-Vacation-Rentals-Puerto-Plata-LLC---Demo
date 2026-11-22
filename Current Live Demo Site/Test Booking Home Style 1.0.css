@@ -31,7 +31,7 @@
 
 #dateSelect::after {
     content: counter(checked-count);
-    display: inline-block;
+    display: block;
     font-weight: bold;
     font-size:3em;
     background-color:white;
@@ -60,7 +60,7 @@
 
 #dateSelect>input[type="checkbox"]::before {
     content:attr(value);
-    display:inline-block;
+    display:block;
     width:2em;
     height:2em;
     margin-left:2em;
