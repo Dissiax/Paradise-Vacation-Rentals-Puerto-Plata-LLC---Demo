@@ -35,6 +35,10 @@ header li:last-child>input[type="checkbox"] {
   cursor: pointer;
 }
 
+header li:last-child>input[type="checkbox"]:checked {
+  transform: rotateX('45deg');
+}
+
 nav {
   display: block;
   position: fixed;
