@@ -39,20 +39,14 @@ header input[type="checkbox"] {
   --sup: 0s;
 }
 
-header input[type="checkbox"]:not(:checked) {
-  transform: rotate(0deg);
-}
-
-header input[type="checkbox"]:checked {
+header:focus-within input[type="checkbox"]:checked {
   /*transform: rotate(90deg);*/
-  animation: var(--sup) normal hamburger forwards;
-  --sup: 1s;
+  animation: 1s hamburgerInverse forwards;
 }
 
 header:focus-within input[type="checkbox"]:not(:checked) {
   /*transform: rotate(0deg);*/
-  animation: var(--sup) normal hamburgerInverse forwards;
-  --sup: 1s;
+  animation: 1s hamburger forwards;
 }
 
 nav {
@@ -108,6 +102,10 @@ footer {
 
 
 
+
+@keyframes cutz {
+
+}
 
 @keyframes hamburger {
   from {
