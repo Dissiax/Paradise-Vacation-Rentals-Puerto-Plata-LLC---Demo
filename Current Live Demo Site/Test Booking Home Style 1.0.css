@@ -4,7 +4,7 @@
 
 #bookingForm {
     display:block;
-    width:100%;
+    width:80%;
     border: 2px solid black;
     color:gray;
     margin:2em;
@@ -27,6 +27,12 @@
     width:70%;
     border-radius:1em;
     background-color:lightskyblue;
+    counter-reset: checked-count;
+}
+
+#dateSelect::after {
+    content: counter(checked-count);
+    font-weight: bold;
 }
 
 #yearSelect, #monthSelect {
@@ -40,6 +46,11 @@
     width:calc(100% / 7);
     aspect-ratio: 1 / 1;
     border:1px solid black;
+}
+
+#dateSelect>input[type="checkbox"]:checked {
+    background-color:blue;
+    counter-increment: checked-count;
 }
 
 #dateSelect>input[type="checkbox"]::before {
