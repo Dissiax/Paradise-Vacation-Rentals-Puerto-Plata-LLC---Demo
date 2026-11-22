@@ -36,7 +36,7 @@ header li:last-child>input[type="checkbox"] {
 }
 
 header li:last-child>input[type="checkbox"]:checked {
-  transform: rotateX(45deg);
+  transform: rotateY(90deg);
 }
 
 nav {
