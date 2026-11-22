@@ -1,4 +1,5 @@
 window.onload = function() {
+    document.getElementById("ok").innerHTML = "blah";
     let nowDate = new Date();
     let nowDay = nowDate.getDate();
     let nowMonth = nowDate.getMonth();

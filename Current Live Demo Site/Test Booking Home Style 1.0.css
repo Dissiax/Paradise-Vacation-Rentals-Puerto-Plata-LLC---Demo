@@ -47,6 +47,8 @@
     display:inline-block;
     width:calc(100% / 7);
     aspect-ratio: 1 / 1;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 #dateSelect>input[type="checkbox"]:not(#currentDay) {
