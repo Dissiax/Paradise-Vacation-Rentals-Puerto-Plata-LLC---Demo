@@ -1,4 +1,5 @@
 1.    shouldn't use checkboxes because selection can't be isolated
-        -   a click to one spot should reserve all of the days until the next date clicked, nto isolated one off days
-        
+        -   a click to one spot should reserve all of the days until the next date clicked, not isolated one off days
+        -   could this be done by heavily styling a range input element?
+
 2.    x
