@@ -5,24 +5,25 @@
   padding: 0;
 }
 
+/*
 body {
   font-family: system-ui, -apple-system, sans-serif;
   line-height: 1.6;
   color: #1f2937;
   background-color: #f3f4f6;
   padding: 2rem;
-}
+}*/
 
-/* 2. Layout Container (Flexbox) */
+/* 2. Layout Container (Flexbox)
 .container {
   max-width: 800px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-}
+}*/
 
-/* 3. Card Component */
+/* 3. Card Component
 .card {
   background-color: #ffffff;
   border-radius: 8px;
@@ -34,9 +35,9 @@ body {
   font-size: 1.75rem;
   margin-bottom: 0.5rem;
   color: #111827;
-}
+}*/
 
-/* 4. Interactive Button */
+/* 4. Interactive Button
 .btn {
   display: inline-block;
   margin-top: 1rem;
@@ -53,9 +54,9 @@ body {
 
 .btn:hover {
   background-color: #1d4ed8;
-}
+}*/
 
-/* 5. Responsive Design (Mobile Screens) */
+/* 5. Responsive Design (Mobile Screens)
 @media (max-width: 600px) {
   body {
     padding: 1rem;
@@ -64,7 +65,7 @@ body {
   .card h1 {
     font-size: 1.4rem;
   }
-}
+}*/
 
 
 
