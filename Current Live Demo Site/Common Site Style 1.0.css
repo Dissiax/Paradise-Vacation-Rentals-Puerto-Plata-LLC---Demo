@@ -17,12 +17,14 @@ body {
 }
 
 header {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
   max-height: 25vh;
   width: dvw;
 }
 
 header>* {
-  display:inline-block;
   height: 1.5rem;
   aspect-ratio: 1 / 1;
 }
@@ -43,7 +45,7 @@ header input[type="checkbox"]:checked {
 }
 
 nav {
-  width: calc(dvw - 3rem);
+  width:auto;
   background-color:grey;
 }
 
