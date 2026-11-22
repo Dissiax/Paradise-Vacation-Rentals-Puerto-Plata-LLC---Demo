@@ -68,5 +68,6 @@
 }
 
 #currentDay {
+    background-color:gold;
     outline:3px solid gold;
 }

@@ -18,4 +18,19 @@ window.onload = function() {
     let weekDay = ((centuryCode + yearCode + monthCode + nowDay) % 7);
 
     document.getElementById("ok").innerHTML = weekDay;
+
+
+
+    let displayMonth = doucment.getElementById("monthSelect");
+    displayMonth.addEventListener('change', (event) => {
+        let selectMonth = monthCodex[displayMonth.value];
+        if (((nowYear & 0x03) == 0) & (((nowYear % 100) != 0) | ((nowYear % 400 == 0)))) {
+        if (displayMonth.value < 2) {
+            //only January and Febuary on leap years
+            selectMonth -= 1;
+        }
+        let selectedWeekDay = ((centuryCode + yearCode + selectMonth + 1) % 7);
+        document.getElementById("ok").innerHTML = selectedWeekDay;
+    }
+    });
 }
