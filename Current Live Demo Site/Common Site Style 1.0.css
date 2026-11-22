@@ -43,12 +43,12 @@ header input[type="checkbox"]:not(:checked) {
 }
 
 header input[type="checkbox"]:checked {
-  transform: rotate(90deg);
+  /*transform: rotate(90deg);*/
   animation: 1s normal hamburger forwards;
 }
 
 header:focus-within input[type="checkbox"]:not(:checked) {
-  transform: rotate(0deg);
+  /*transform: rotate(0deg);*/
   animation: 1s normal hamburgerInverse forwards;
 }
 
