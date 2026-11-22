@@ -1,0 +1,15 @@
+:root {
+    --primary-color: #2563eb;
+}
+
+#bookingForm {
+    width:100%;
+    border: 1em solid black;
+    margin:2em;
+    border-radius:1em;
+    background-color:lightskyblue;
+}
+
+#roomSelect {
+
+}

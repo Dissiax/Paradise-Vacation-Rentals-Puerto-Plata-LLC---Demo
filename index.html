@@ -4,7 +4,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Booking Home Page</title>
 	<link rel="stylesheet" href="Common Site Style 1.0.css">
-	<link rel="icon" href="Images/paradise_logo-01.png">
+	<link rel="stylesheet" href="Current Live Demo Site/Test Booking Home Style 1.0.css">
+	<script src="Current Live Demo Site/Test Booking Home Script 1.0.js" defer></script>
+	<link rel="icon" href="Images/favicon.png">
     </head>
 
 
@@ -17,7 +19,7 @@
 
     <body>
 	<header>
-		<img id="siteLogo" src=""></img>
+		<img id="siteLogo" src="Images/paradise_logo-01.png"></img>
 	</header>
 
 
@@ -40,6 +42,43 @@
 
 	<main>
 		<p>filler main text</p>
+		<form id="bookingForm">
+			<select id="roomSelect">
+				<option value="Tropical">Tropical</option>
+				<option value="Cofresi">Cofresi Palm Beach & Spa Resort</option>
+				<option value="Residence">Residence Suites</option>
+				<option value="CrownS">Crown Suites</option>
+				<option value="Presidential">Presidential Suites</option>
+				<option value="RoyalS">Royal Suites</option>
+				<option value="Sunrise">Sunrise Suites</option>
+				<option value="CrownV">Crown Villas</option>
+				<option value="RoyalV">The Royal Villas</option>
+			</select>
+			<fieldset id="dateSelect">
+				<legend>Select Dates:</legend>
+				<input type="number" id="yearSelect" max="9999" min="2026" step="1">
+				<select id="monthSelect">
+					<option value="01">January</option>
+					<option value="02">Febuary</option>
+					<option value="03">March</option>
+					<option value="04">April</option>
+					<option value="05">May</option>
+					<option value="06">June</option>
+					<option value="07">July</option>
+					<option value="08">August</option>
+					<option value="09">September</option>
+					<option value="10">October</option>
+					<option value="11">November</option>
+					<option value="12">December</option>
+				</select>
+				<input type="checkbox" id="day1" name="day1" value="day1">
+				<input type="checkbox" id="day2" name="day2" value="day2">
+				<input type="checkbox" id="day3" name="day3" value="day3">
+				<input type="checkbox" id="day4" name="day4" value="day4">
+				<input type="checkbox" id="day5" name="day5" value="day5">
+			</fieldset>
+			<input type="number" id="guestSelect" max="50" min="1" step="1">
+		</form>
 	</main>
 
 
