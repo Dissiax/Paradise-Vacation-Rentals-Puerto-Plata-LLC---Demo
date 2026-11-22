@@ -44,9 +44,13 @@ header input[type="checkbox"]:checked {
   animation: 1s hamburger;
 }
 
+header input[type="checkbox"]:indeterminate {
+  animation: 1s reverse hamburger;
+}
+
 nav {
   display:block;
-  width:auto;
+  width:100%;
   background-color:grey;
 }
 
