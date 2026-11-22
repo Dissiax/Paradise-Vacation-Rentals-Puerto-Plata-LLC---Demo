@@ -48,6 +48,7 @@ nav {
   display:block;
   width:auto;
   background-color:grey;
+  max-height: 1.5rem;
 }
 
 nav>ul {
