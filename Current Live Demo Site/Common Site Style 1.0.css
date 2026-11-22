@@ -42,7 +42,7 @@ header input[type="checkbox"]:checked {
 }
 
 nav {
-  width: calc(dvw - 3em);
+  width: calc(dvw - 3rem);
   background-color:grey;
 }
 
