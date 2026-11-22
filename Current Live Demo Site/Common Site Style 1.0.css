@@ -52,20 +52,21 @@ nav {
   background-color:grey;
 }
 
+/*
 nav>ul {
   max-height: 1.5rem;
   display:block;
   overflow-x:auto;
   animation: detect-overflow linear;
-  animation-timeline: scroll(self); /* Only active when scrollable */
+  animation-timeline: scroll(self); /* Only active when scrollable
   
-  /* Apply conditional styles using the custom property */
+  /* Apply conditional styles using the custom property
   border: var(--is-overflowing) 2px solid red;
 }
 
 @keyframes detect-overflow {
   from, to {
-    --is-overflowing: ; /* Space toggle trick (truthy in CSS) */
+    --is-overflowing: ; /* Space toggle trick (truthy in CSS)
   }
 }
 
