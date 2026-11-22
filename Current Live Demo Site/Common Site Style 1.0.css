@@ -39,7 +39,7 @@ header input[type="checkbox"] {
   cursor: pointer;
 }
 
-header:focus-within input[type="checkbox"]:checked {
+header input[type="checkbox"]:checked {
   animation: 1s normal hamburger;
   transform: rotate(90deg);
 }
