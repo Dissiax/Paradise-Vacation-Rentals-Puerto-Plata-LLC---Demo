@@ -22,6 +22,7 @@ header {
 }
 
 header>* {
+  display:inline-block;
   height: 1.5rem;
   aspect-ratio: 1 / 1;
 }
