@@ -36,6 +36,9 @@ header input[type="checkbox"] {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
+}
+
+header input[type="checkbox"]:not(:checked) {
   transform: rotate(0deg);
 }
 
