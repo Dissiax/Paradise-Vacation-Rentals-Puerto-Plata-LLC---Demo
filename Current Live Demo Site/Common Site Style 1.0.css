@@ -9,11 +9,32 @@
 
 html {
   scrollbar-width: auto;
-  scrollbar-color: red blue;
+  scrollbar-color: initial initial;
 }
 
 body {
   font-size: 1rem;
+}
+
+header {
+  max-height: 25vh;
+}
+
+nav {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 80vw;
+  height: 100vh;
+  width: 20vw;
+  background-color:grey;
+}
+
+footer {
+  height: 20vh;
+  padding-top: 10vh;
+  background-color:black;
+  color:white;
 }
 
 /*
@@ -44,6 +65,8 @@ alternative option since WCAG 2.5.8 only requires a lower boundary of 24x24 pixe
   }
   */
 }
+
+
 
 
 
