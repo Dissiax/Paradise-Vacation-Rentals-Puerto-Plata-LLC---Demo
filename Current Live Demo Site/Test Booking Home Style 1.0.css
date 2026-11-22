@@ -47,12 +47,10 @@
     display:inline-block;
     width:calc(100% / 7);
     aspect-ratio: 1 / 1;
-    appearance: none;
-    -webkit-appearance: none;
 }
 
 #dateSelect>input[type="checkbox"]:not(#currentDay) {
-    border:1px solid black;
+    outline:1px solid black;
 }
 
 #dateSelect>input[type="checkbox"]:checked {
@@ -70,5 +68,5 @@
 }
 
 #currentDay {
-    border:3px solid gold;
+    outline:3px solid gold;
 }
