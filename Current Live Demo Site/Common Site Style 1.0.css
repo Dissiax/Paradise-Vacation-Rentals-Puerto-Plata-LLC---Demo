@@ -48,6 +48,17 @@ nav {
 
 nav>ul {
   overflow:auto;
+  animation: detect-overflow linear;
+  animation-timeline: scroll(self); /* Only active when scrollable */
+  
+  /* Apply conditional styles using the custom property */
+  border: var(--is-overflowing) 2px solid red;
+}
+
+@keyframes detect-overflow {
+  from, to {
+    --is-overflowing: ; /* Space toggle trick (truthy in CSS) */
+  }
 }
 
 nav li {
