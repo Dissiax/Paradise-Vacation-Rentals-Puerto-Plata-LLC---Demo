@@ -18,16 +18,16 @@ body {
 
 header {
   max-height: 25vh;
+  width:100%;
 }
 
 header>* {
   display: inline-block;
-  width: 100%;
+  height: 1.5rem;
+  aspect-ratio: 1 / 1;
 }
 
-header>input[type="checkbox"] {
-  width: 1.5rem;
-  aspect-ratio: 1 / 1;
+header input[type="checkbox"] {
   appearance: none;
   background-image: url("./Images/Hamburger Icon 1.0.png");
   background-size: contain;
@@ -36,14 +36,22 @@ header>input[type="checkbox"] {
   cursor: pointer;
 }
 
-header>input[type="checkbox"]:checked {
+header input[type="checkbox"]:checked {
   animation: 1s hamburger;
 }
 
 nav {
-  height: 1.5rem;
+  width: calc(100% - 3rem);
   background-color:grey;
   overflow:auto;
+  container-type: scroll-state;
+  container-name: list-box;
+}
+
+@container list-box not scroll-state(scrollable: none) {
+  .scroll-indicator {
+    background-color:red; /* Only shows when overflow exists */
+  }
 }
 
 nav:has(+ input[type="checkbox"]:checked) {
@@ -54,11 +62,6 @@ nav:has(+ input[type="checkbox"]:checked) {
   height: 100dvh;
   width: 20dvw;
   animation: 1s showNav;
-}
-
-nav li {
-  display: inline-block;
-  height: 1.5rem;
 }
 
 footer {
