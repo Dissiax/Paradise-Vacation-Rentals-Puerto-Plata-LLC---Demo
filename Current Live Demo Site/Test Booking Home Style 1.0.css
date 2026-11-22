@@ -2,17 +2,22 @@
     --primary-color: #2563eb;
 }
 
+* {
+    padding:0px;
+}
+
 body {
-    display: block;
+    display:block;
     position:fixed;
     top:0;
     left:0;
     width:100%;
     height:100%;
+    overflow:auto;
 }
 
 #bookingForm {
-    display: block;
+    display:block;
     width:100%;
     border: 2px solid black;
     color:gray;
@@ -20,6 +25,7 @@ body {
 }
 
 #roomSelect {
+    display:block;
     width:100%;
     height:2em;
     text-align:center;
@@ -43,10 +49,12 @@ body {
 }
 
 #yearSelect, #monthSelect {
+    display:block;
     width:100%;
 }
 
 #dateSelect>input[type="checkbox"] {
+    display:inline-block;
     width:calc(100% / 7);
     aspect-ratio: 1 / 1;
     border:1px solid black;
