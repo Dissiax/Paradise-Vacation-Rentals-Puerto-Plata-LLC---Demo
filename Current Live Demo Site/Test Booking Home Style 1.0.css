@@ -31,7 +31,10 @@
 
 #dateSelect::after {
     content: counter(checked-count);
+    display: inline-block;
     font-weight: bold;
+    font-size:3em;
+    background-color:white;
 }
 
 #yearSelect, #monthSelect {
