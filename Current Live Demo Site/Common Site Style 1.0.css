@@ -29,7 +29,7 @@ header>* {
   aspect-ratio: 1 / 1;
 }
 
-.wrapNav input[type="checkbox"] {
+header input[type="checkbox"] {
   transform: rotate(0deg);
   appearance: none;
   background-image: url("./Images/Hamburger Icon 1.0.png");
@@ -39,12 +39,11 @@ header>* {
   cursor: pointer;
 }
 
-.wrapNav input[type="checkbox"]:checked {
-  transform: rotate(90deg);
+header input[type="checkbox"]:checked {
   animation: 1s normal hamburger;
 }
 
-.wrapNav:focus-within input[type="checkbox"]:not(:checked) {
+header:focus-within input[type="checkbox"]:not(:checked) {
   animation: 1s normal hamburgerInverse;
 }
 
