@@ -21,7 +21,7 @@ window.onload = function() {
 
 
 
-    let displayMonth = doucment.getElementById("monthSelect");
+    let displayMonth = document.getElementById("monthSelect");
     document.getElementById("ok").innerHTML = displayMonth.value;
     displayMonth.addEventListener('change', (event) => {
         document.getElementById("ok").innerHTML = "recalculating";
