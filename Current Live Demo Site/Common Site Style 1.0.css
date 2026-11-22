@@ -25,6 +25,7 @@ header {
 }
 
 header>* {
+  max-height: 1.5rem;
   height: 1.5rem;
   aspect-ratio: 1 / 1;
 }
