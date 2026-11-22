@@ -40,12 +40,10 @@ header input[type="checkbox"] {
 
 header input[type="checkbox"]:checked {
   animation: 1s normal hamburger;
-  transform: rotate(90deg);
 }
 
 header:focus-within input[type="checkbox"]:not(:checked) {
   animation: 1s normal hamburgerInverse;
-  transform: rotate(0deg);
 }
 
 nav {
