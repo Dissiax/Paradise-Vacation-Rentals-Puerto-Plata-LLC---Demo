@@ -36,17 +36,23 @@ header input[type="checkbox"] {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
-  --sup: 0s;
 }
 
-header:focus-within input[type="checkbox"]:checked {
-  /*transform: rotate(90deg);*/
-  animation: 1s hamburgerInverse forwards;
+header:not(:has(:focus-visible)) input[type="checkbox"]:checked {
+  transform: rotate(90deg);
 }
 
-header:focus-within input[type="checkbox"]:not(:checked) {
-  /*transform: rotate(0deg);*/
+header:not(:has(:focus-visible)) input[type="checkbox"]:not(:checked) {
+  transform: rotate(0deg);
+}
+
+header:has(:focus-visible) input[type="checkbox"]:checked {
   animation: 1s hamburger forwards;
+}
+
+header:has(:focus-visible) input[type="checkbox"]:not(:checked) {
+  /*transform: rotate(0deg);*/
+  animation: 1s hamburgerInverse forwards;
 }
 
 nav {
