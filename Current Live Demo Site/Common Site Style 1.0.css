@@ -37,22 +37,15 @@ header input[type="checkbox"] {
   background-position: center;
   cursor: pointer;
 }
-/*
-header:not(:has(:focus-visible)) input[type="checkbox"]:checked {
-  transform: rotate(90deg);
-}
 
-header:not(:has(:focus-visible)) input[type="checkbox"]:not(:checked) {
-  transform: rotate(0deg);
-}
-*/
-header:has(:focus-visible) input[type="checkbox"]:checked {
+header:focus-within input[type="checkbox"]:checked {
   animation: 1s hamburger forwards;
 }
 
 header:has(:focus-visible) input[type="checkbox"]:not(:checked) {
-  /*transform: rotate(0deg);*/
+  /*transform: rotate(0deg);
   animation: 1s hamburgerInverse forwards;
+  */
 }
 
 nav {
