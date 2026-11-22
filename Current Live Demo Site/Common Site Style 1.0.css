@@ -46,6 +46,9 @@ header input[type="checkbox"]:checked {
 
 nav {
   background-color:grey;
+}
+
+nav>ul {
   overflow:auto;
   container-type: scroll-state;
   container-name: list-box;
