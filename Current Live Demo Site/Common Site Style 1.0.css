@@ -18,7 +18,7 @@ body {
 
 header {
   max-height: 25vh;
-  width:100%;
+  width: dvw;
 }
 
 header>* {
@@ -44,7 +44,7 @@ header input[type="checkbox"]:checked {
 }
 
 nav {
-  width: calc(100% - 3rem);
+  width: calc(dvw - 3rem);
   background-color:grey;
   overflow:auto;
   container-type: scroll-state;
