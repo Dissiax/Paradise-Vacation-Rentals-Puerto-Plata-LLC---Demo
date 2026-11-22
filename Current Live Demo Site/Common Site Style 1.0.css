@@ -30,6 +30,7 @@ header>* {
 }
 
 header input[type="checkbox"] {
+  transform: rotate(90deg);
   animation: 1s reverse hamburger;
   transform: rotate(0deg);
   appearance: none;
@@ -41,6 +42,7 @@ header input[type="checkbox"] {
 }
 
 header input[type="checkbox"]:checked {
+  transform: rotate(0deg);
   animation: 1s normal hamburger;
   transform: rotate(90deg);
 }
