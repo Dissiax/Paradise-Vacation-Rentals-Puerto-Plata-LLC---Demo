@@ -39,10 +39,10 @@ header input[type="checkbox"] {
 }
 
 header:focus-within input[type="checkbox"]:checked {
-  animation: 1s hamburgerImverse forwards;
+  animation: 1s hamburgerInverse forwards;
 }
 
-header input[type="checkbox"]:not(:checked) {
+header:focus-within input[type="checkbox"]:not(:checked) {
   animation: 1s hamburger forwards;
 }
 
