@@ -22,7 +22,9 @@ window.onload = function() {
 
 
     let displayMonth = doucment.getElementById("monthSelect");
+    document.getElementById("ok").innerHTML = displayMonth.value;
     displayMonth.addEventListener('change', (event) => {
+        document.getElementById("ok").innerHTML = "recalculating";
         let selectMonth = monthCodex[displayMonth.value];
         if (((nowYear & 0x03) == 0) & (((nowYear % 100) != 0) | ((nowYear % 400 == 0)))) {
             if (displayMonth.value < 2) {
