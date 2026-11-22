@@ -60,7 +60,7 @@ nav li {
 
 @container list-box not scroll-state(scrollable: none) {
   .scroll-indicator {
-    background-color:red; /* Only shows when overflow exists */
+    color:red; /* Only shows when overflow exists */
   }
 }
 
