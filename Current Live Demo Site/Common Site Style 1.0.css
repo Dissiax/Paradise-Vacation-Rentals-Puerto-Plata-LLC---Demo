@@ -1,9 +1,70 @@
+@charset "UTF-8";
+
 /* 1. Global Reset & Base Styles */
 * {
-  /*box-sizing: border-box;*/
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
+
+html {
+  scrollbar-width: auto;
+  scrollbar-color: red blue;
+}
+
+body {
+  font-size: 1rem;
+}
+
+/*
+alternative option since WCAG 2.5.8 only requires a lower boundary of 24x24 pixels but reccomends 44x44 for touchscreens:
+ - the alternative "(any-pointer: coarse)" checks for any connected pointer instead of just the primary pointer
+
+@media (pointer: coarse) {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+@media (pointer: fine) {
+  min-width: 24px;
+  min-height: 24px;
+}
+*/
+
+.UI {
+  min-width: 44px;
+  min-height: 44px;
+  max-width: 100%;
+}
+
+@media (pointer: none) {
+  /*
+  body {
+  any changes for when there aren't any pointers, stylus, mouse, touch screen, &c
+  }
+  */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 body {

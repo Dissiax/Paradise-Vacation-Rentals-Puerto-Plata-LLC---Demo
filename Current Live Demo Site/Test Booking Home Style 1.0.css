@@ -1,3 +1,6 @@
+@charset "UTF-8";
+@import "./Common\ Site\ Style\ 1.0.css";
+
 :root {
     --primary-color: #2563eb;
 }
