@@ -36,6 +36,7 @@ header input[type="checkbox"] {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
+  --sup: 0s;
 }
 
 header input[type="checkbox"]:not(:checked) {
@@ -44,12 +45,13 @@ header input[type="checkbox"]:not(:checked) {
 
 header input[type="checkbox"]:checked {
   /*transform: rotate(90deg);*/
-  animation: 1s normal hamburger forwards;
+  animation: var(--sup) normal hamburger forwards;
 }
 
 header:focus-within input[type="checkbox"]:not(:checked) {
   /*transform: rotate(0deg);*/
-  animation: 1s normal hamburgerInverse forwards;
+  animation: var(--sup) normal hamburgerInverse forwards;
+  --sup: 1s;
 }
 
 nav {
