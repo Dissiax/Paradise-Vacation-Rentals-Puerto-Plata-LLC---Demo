@@ -34,7 +34,7 @@ window.onload = function() {
                 selectMonth -= 1;
             }
         }
-        let selectedWeekDay = ((centuryCode + yearCode + selectMonth + 1) % 7);
+        let selectedWeekDay = ((centuryCode + yearCode + selectMonth + 0) % 7);
         document.getElementById("ok").innerHTML = selectedWeekDay;
     });
 }
