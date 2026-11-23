@@ -25,6 +25,13 @@ nav {
   display:flex;
   flex-direction: row;
   justify-content: space-between;
+  height: auto;
+}
+
+@container (height > 1rem) {
+  nav {
+    background-color: red;
+  }
 }
 /*
 header>* {
