@@ -13,22 +13,27 @@ html {
 }
 
 body {
+  font-family: system-ui, -apple-system, sans-serif;
   font-size: 1rem;
 }
 
 header {
-  display:flex;
-  flex-direction: row;
-  justify-content: space-between;
   max-height: 25vh;
 }
 
+nav {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+/*
 header>* {
   max-height: 1.5rem;
   height: 1.5rem;
   aspect-ratio: 1 / 1;
 }
 
+/*
 header input[type="checkbox"] {
   appearance: none;
   background-image: url("./Images/Hamburger Icon 1.0.png");
@@ -38,6 +43,7 @@ header input[type="checkbox"] {
   cursor: pointer;
 }
 
+/*
 header:focus-within input[type="checkbox"]:checked {
   animation: 1s hamburgerInverse forwards;
 }
@@ -266,3 +272,4 @@ body {
 
 /* #000000 - white */
 /* #FFFFFF - black */
+
