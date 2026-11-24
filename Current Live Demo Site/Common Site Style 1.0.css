@@ -18,15 +18,19 @@ body {
 }
 
 header {
-  display:flex;
-  flex-direction: row;
-  justify-content: space-between;
   max-height: 25vh;
+  display: flex;
 }
 
 header>img {
   height: 1.5em;
   aspect-ratio: 1/1;
+}
+
+header>ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 nav {
